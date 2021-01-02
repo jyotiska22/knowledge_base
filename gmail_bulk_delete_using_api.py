@@ -1,3 +1,4 @@
+# https://coda.io/@jb22/chishiki/guide-to-deleting-emails-using-google-gmail-apis-5  for context
 #!/usr/bin/env python
 # coding: utf-8
 
