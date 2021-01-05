@@ -36,7 +36,7 @@ def list_emails(token,url):
 # In[ ]:
 
 
-#Delete Email list from conquest=dev@capillarytech.com
+#Delete Email list from abcd@gmail.com
 def delete_emails(token,r):
     headers = {
           'Authorization': 'Bearer {}'.format(token),
